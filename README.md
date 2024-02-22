@@ -1,6 +1,6 @@
 # Dengue_FOI_review_code
 
-This repository contains age-stratified seroprevalence data for dengue, obtained through a comprehensive literature review. The pre-print publication detailing the methodology and findings can be found here (DOI: https://doi.org/10.1101/2023.04.07.23288290).
+This repository contains age-stratified seroprevalence data for dengue, obtained through a comprehensive literature review described in our paper entitled _A scoping literature review of global dengue age-stratified seroprevalence: estimating dengue force of infection in endemic countries_. The pre-print publication detailing the methodology and findings can be found here (DOI: https://doi.org/10.1101/2023.04.07.23288290).
 
 **Data Files**
 In each file the "location" column specifies the location where the data was collected and the referenced paper.
