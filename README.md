@@ -3,14 +3,15 @@
 This repository contains age-stratified seroprevalence data for dengue, obtained through a comprehensive literature review. The pre-print publication detailing the methodology and findings can be found here (DOI: https://doi.org/10.1101/2023.04.07.23288290).
 
 **Data Files**
+In each file the "location" column specifies the location where the data was collected and the referenced paper.
 
-    dataset_modelA.csv: Contains the seroprevalence data analyzed with Model A. The "location" column specifies the location where the data was collected and the referenced paper.
-    dataset_modelB.csv: Contains the seroprevalence data analyzed with Model B. The "location" column specifies the location where the data was collected and the referenced paper.
-    dataset_modelC.csv: Contains the seroprevalence data analyzed with Model C. The "location" column specifies the location where the data was collected and the referenced paper.
-    dataset_model_D.csv: Contains the seroprevalence data analyzed with Model D. The "location" column specifies the location where the data was collected and the referenced paper.
-    dataset_Madagascar.csv: Contains the seroprevalence data analyzed with Model A for different locations in Madagascar and the referenced paper.
-    dataset_Mexico.csv: Contains the seroprevalence data analyzed with Model A for different locations in Mexico and the referenced paper.
-    dataset_Indonesia.csv: Contains the seroprevalence data analyzed with Model A for different locations in Mexico and the referenced paper.
+    dataset_modelA.csv: Contains the seroprevalence data analyzed with Model A.
+    dataset_modelB.csv: Contains the seroprevalence data analyzed with Model B. 
+    dataset_modelC.csv: Contains the seroprevalence data analyzed with Model C. 
+    dataset_model_D.csv: Contains the seroprevalence data analyzed with Model D. 
+    dataset_Madagascar.csv: Contains the seroprevalence data analyzed with Model A in Madagascar.
+    dataset_Mexico.csv: Contains the seroprevalence data analyzed with Model A in Mexico.
+    dataset_Indonesia.csv: Contains the seroprevalence data analyzed with Model A in Indonesia.
 
 **Usage**
 
